@@ -67,7 +67,7 @@ Simple Interest = 100.0
 
 ## Contributing
 
-We welcome contributions! Please follow the guidelines in the [**CONTRIBUTING**](www.placeholder.com) file. Here's how you can get started:
+We welcome contributions! Please follow the guidelines in the [**CONTRIBUTING**](https://github.com/RockwellTheEntertainer/github-final-project/blob/main/CONTRIBUTING.md) file. Here's how you can get started:
 
 1. Fork this repository.
 2. Create a feature branch:
