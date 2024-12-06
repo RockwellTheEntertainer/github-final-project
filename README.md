@@ -67,7 +67,7 @@ Simple Interest = 100.0
 
 ## Contributing
 
-We welcome contributions! Please follow the guidelines in the [CONTRIBUTING.md](www.placeholder.com) file. Here's how you can get started:
+We welcome contributions! Please follow the guidelines in the [**CONTRIBUTING.md**](www.placeholder.com) file. Here's how you can get started:
 
 1. Fork this repository.
 2. Create a feature branch:
@@ -98,11 +98,11 @@ git push origin feature-name
 
 ## Code of Conduct
 
-We value a respectful and inclusive community. Please review our [Code of Conduct](www.placeholder.com) before contributing.
+We value a respectful and inclusive community. Please review our [**Code of Conduct**](https://github.com/RockwellTheEntertainer/github-final-project/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
 ## License
 
-This project is licensed under the **Apache License 2.0**. See the [LICENSE](https://github.com/RockwellTheEntertainer/github-final-project/blob/main/LICENSE) file for more details.
+This project is licensed under the **Apache License 2.0**. See the [**LICENSE**](https://github.com/RockwellTheEntertainer/github-final-project/blob/main/LICENSE) file for more details.
 
 ## Acknowledgments
 
