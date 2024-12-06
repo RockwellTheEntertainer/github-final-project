@@ -110,4 +110,4 @@ This project is part of Coursera's [**Getting Started with Git and GitHub**](htt
 
 ## Contact
 
-For questions, feedback, or suggestions, feel free to open an issue or contact us at [matthew.h.rockwell@outlook.com].
+For questions, feedback, or suggestions, feel free to open an issue or contact us at matthew.h.rockwell@outlook.com.
